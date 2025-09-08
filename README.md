@@ -9,13 +9,14 @@ The system features **secure user authentication** and **role-based access contr
 ## 📂 Project Structure
 📂 task-management-system
 ├── src/ # Java source code
-├── web/ # HTML, CSS, JavaScript frontend
-├── db/ # SQL schema and scripts
-├── docs/ # Screenshots or architecture diagrams
-└── README.md
 
-yaml
-Copy code
+├── web/ # HTML, CSS, JavaScript frontend
+
+├── db/ # SQL schema and scripts
+
+├── docs/ # Screenshots or architecture diagrams
+
+└── README.md
 
 ---
 
